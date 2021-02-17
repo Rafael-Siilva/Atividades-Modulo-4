@@ -1,8 +1,8 @@
 //Destructuring - Desestruturação
 //Tendo a função abaixo, usando destructuring, reescreva-a de modo que fique em apenas 2 linhas de código
 const evento = {
-    clientX: "Marcus",
-    clientY: "Amanda"
+    clientX: "Rafael",
+    clientY: "João"
 };
 
 const handleMouseMove1 = (event) => {

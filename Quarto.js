@@ -13,7 +13,7 @@ const toCelsius = (fahrenheit) => {
     return (5 / 9) * (fahrenheit - 32);
 };
 
-console.log(upperName1("Marcus"));
+console.log(upperName1("Rafael"));
 console.log(myFunction(2, 5));
 console.log(toCelsius(12));
   
